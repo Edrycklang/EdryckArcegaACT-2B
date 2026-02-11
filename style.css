@@ -1,6 +1,6 @@
 body {
-    background: #ffffff; 
-    color: #b30000; 
+    background: #ffffff; /* clean white background */
+    color: #b30000; /* Jollibee red text */
 }
 
 main.container {
@@ -8,7 +8,7 @@ main.container {
 }
 
 .profile {
-    background: linear-gradient(135deg, #e60012, #ffcc00); 
+    background: linear-gradient(135deg, #e60012, #ffcc00); /* red → yellow */
     color: #ffffff;
     padding: 50px 20px;
     border-radius: 16px;
@@ -27,12 +27,12 @@ main.container {
 }
 
 .profile .lead {
-    color: #fff8cc; 
+    color: #fff8cc; /* soft yellow-white */
     font-size: 1rem;
 }
 
 section {
-    background: #fff5f5; 
+    background: #fff5f5; /* light soft red background */
     color: #b30000;
     padding: 24px;
     border-radius: 14px;
@@ -41,9 +41,9 @@ section {
 }
 
 section h2 {
-    color: #e60012; 
+    color: #e60012; /* bold red */
     margin-top: 0;
-    border-bottom: 3px solid #ffcc00; 
+    border-bottom: 3px solid #ffcc00; /* yellow accent */
     padding-bottom: 6px;
 }
 
@@ -69,7 +69,7 @@ section a:hover {
 footer {
     margin-top: 40px;
     text-align: center;
-    background: #e60012; 
+    background: #e60012; /* strong red footer */
     color: #ffffff;
     padding: 14px;
     border-radius: 12px;
